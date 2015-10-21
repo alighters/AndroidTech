@@ -5,6 +5,7 @@
 2. [性能优化](#2-性能优化)
 3. [Java知识](#3-Java知识)
    - [Java多线程](#java多线程)
+   - [设计模式](#设计模式)
 4. [相关语言](#4-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
@@ -17,6 +18,8 @@
 + [Java多线程执行框架](http://segmentfault.com/a/1190000003810146)
 + [Java多线程同步与synchronized](http://segmentfault.com/a/1190000003810166)
 + [Java多线程同步与对象控制权](http://segmentfault.com/a/1190000003810146)
+###设计模式
++ [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
 ## 4. 相关语言
 ### RxJava
