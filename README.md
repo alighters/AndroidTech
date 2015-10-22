@@ -2,6 +2,7 @@
 ## 记录一些关于Android开发比较不错的文章。
 ## Table of Contents
 1. [Tools](#1-tools)
+   - [Gradle](#gradle)
 2. [性能优化](#2-性能优化)
 3. [Java知识](#3-Java知识)
    - [Java多线程](#java多线程)
@@ -12,6 +13,8 @@
 5. [其他](#5-其他)
 
 ## 1. Tools
+###Gradle
++ [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
 ## 2. 性能优化
 ## 3. Java知识   
 ###Java多线程
