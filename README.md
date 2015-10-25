@@ -12,6 +12,7 @@
    - [Kotlin](#kotlin)
    - [Realm](#realm)
 5. [其他](#5-其他)
+   - [Linux](#linux)
 
 ## 1. Tools
 ###Gradle
@@ -34,3 +35,5 @@
 + [Realm官方网站](https://realm.io/)
 	
 ## 5. 其他
+### Linux
++ [Linux进程讲解在线文档](http://www.linuxprocess.com/)
