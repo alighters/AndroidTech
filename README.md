@@ -13,16 +13,19 @@
    - [Realm](#realm)
 5. [其他](#5-其他)
    - [Linux](#linux)
+   - [前端文章](#前端文章)
 
 ## 1. Tools
 ###Gradle
 + [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
+
 ## 2. 性能优化
 ## 3. Java知识   
 ###Java多线程
 + [Java多线程执行框架](http://segmentfault.com/a/1190000003810146)
 + [Java多线程同步与synchronized](http://segmentfault.com/a/1190000003810166)
 + [Java多线程同步与对象控制权](http://segmentfault.com/a/1190000003810146)
+
 ###设计模式
 + [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
@@ -37,3 +40,8 @@
 ## 5. 其他
 ### Linux
 + [Linux进程讲解在线文档](http://www.linuxprocess.com/)
+
+### 前端文章
++ [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
++ [前端面试知识集合](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+
