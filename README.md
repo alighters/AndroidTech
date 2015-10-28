@@ -4,6 +4,7 @@
 1. [Tools](#1-tools)
    - [Gradle](#gradle)
 2. [性能优化](#2-性能优化)
+	- [布局优化](#布局优化)
 3. [Java知识](#3-Java知识)
    - [Java多线程](#java多线程)
    - [设计模式](#设计模式)
@@ -20,6 +21,9 @@
 + [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
 
 ## 2. 性能优化
+###布局优化
++ [facebook新闻页ListView优化](http://blog.aaapei.com/article/2015/02/facebookxin-wen-ye-listviewyou-hua)
+
 ## 3. Java知识   
 ###Java多线程
 + [Java多线程执行框架](http://segmentfault.com/a/1190000003810146)
