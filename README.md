@@ -29,6 +29,7 @@
 
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
++ [custom-viewgroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
 
 
 ## 3. Java知识   
