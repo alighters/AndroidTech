@@ -23,6 +23,7 @@
 ## 2. 性能优化
 ###布局优化
 + [facebook新闻页ListView优化](http://blog.aaapei.com/article/2015/02/facebookxin-wen-ye-listviewyou-hua)
++ [听FackBook工程师讲Custom ViewGroups](http://www.devtf.cn/?p=515)
 
 ## 3. Java知识   
 ###Java多线程
