@@ -5,6 +5,7 @@
    - [Gradle](#gradle)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
+	- [Rendering](#rendering)
 3. [Java知识](#3-Java知识)
    - [Java多线程](#java多线程)
    - [设计模式](#设计模式)
@@ -24,6 +25,11 @@
 ###布局优化
 + [facebook新闻页ListView优化](http://blog.aaapei.com/article/2015/02/facebookxin-wen-ye-listviewyou-hua)
 + [听FackBook工程师讲Custom ViewGroups](http://www.devtf.cn/?p=515)
++ [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
+
+### Rendering
++ [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
+
 
 ## 3. Java知识   
 ###Java多线程
@@ -37,8 +43,10 @@
 ## 4. 相关语言
 ### RxJava
 + [RxJava入门详解](http://gold.xitu.io/entry/561b2c1860b2b90b56881f83)
+
 ### Kotlin
 + [Kotlin中文网站](http://kotlinlang.cn/)
+
 ### Realm
 + [Realm官方网站](https://realm.io/)
 	
