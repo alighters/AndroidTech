@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Tools](#1-tools)
    - [Gradle](#gradle)
+   - [Iterm](#iterm)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
 	- [Rendering](#rendering)
@@ -20,6 +21,9 @@
 ## 1. Tools
 ###Gradle
 + [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
+
+###Iterm
++ [Iterm简介](http://swiftcafe.io/2015/07/25/iterm/)
 
 ## 2. 性能优化
 ###布局优化
