@@ -16,10 +16,12 @@
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
    - [Realm](#realm)
-5. [其他](#5-其他)
+5. [前端知识](#5-前端知识)
+	- [React Native](#react_Native)
+	- [前端文章](#前端文章)
+	- [前端工具](#前端工具)
+6. [其他](#6-其他)
    - [Linux](#linux)
-   - [前端文章](#前端文章)
-   - [前端工具](#前端工具)
 
 ## 1. Tools
 ###Gradle
@@ -65,10 +67,10 @@
 
 ### Realm
 + [Realm官方网站](https://realm.io/)
-	
-## 5. 其他
-### Linux
-+ [Linux进程讲解在线文档](http://www.linuxprocess.com/)
+
+## 5.前端知识
+### React_Native
++ [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 
 ### 前端文章
 + [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
@@ -76,4 +78,9 @@
 
 ###前端工具
 + [10款前端开发工具](http://www.imooc.com/article/1779)
+	
+## 6. 其他
+### Linux
++ [Linux进程讲解在线文档](http://www.linuxprocess.com/)
+
 
