@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Tools](#1-tools)
    - [Gradle](#gradle)
+   - [Parcelable](#parcelable)
    - [Iterm](#iterm)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
@@ -21,6 +22,11 @@
 ## 1. Tools
 ###Gradle
 + [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
+
+###Parcelable
++ [parceler](https://github.com/johncarl81/parceler)
++ [ParcelableGenerator](https://github.com/baoyongzhang/ParcelableGenerator)
++ [android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 
 ###Iterm
 + [Iterm简介](http://swiftcafe.io/2015/07/25/iterm/)
