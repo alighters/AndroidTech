@@ -7,6 +7,7 @@
    - [Iterm](#iterm)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
+	- [资源混淆](#资源混淆)
 	- [Rendering](#rendering)
 3. [Java知识](#3-Java知识)
    - [Java多线程](#java多线程)
@@ -37,6 +38,9 @@
 + [facebook新闻页ListView优化](http://blog.aaapei.com/article/2015/02/facebookxin-wen-ye-listviewyou-hua)
 + [听FackBook工程师讲Custom ViewGroups](http://www.devtf.cn/?p=515)
 + [TextView预渲染研究](http://ragnraok.github.io/textview-pre-render-research.html)
+
+###资源混淆
++ [微信 Android 资源混淆打包工具-安装包立减1M](http://gold.xitu.io/entry/561f760560b27457e8371416)  [源码地址](https://github.com/shwenzhang/AndResGuard)
 
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
