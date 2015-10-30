@@ -5,6 +5,7 @@
    - [Gradle](#gradle)
    - [Parcelable](#parcelable)
    - [Iterm](#iterm)
+   - [JitPack](#jitPack)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
 	- [资源混淆](#资源混淆)
@@ -36,6 +37,9 @@
 
 ###Iterm
 + [Iterm简介](http://swiftcafe.io/2015/07/25/iterm/)
+
+###JitPack
++ [JitPack：using package repository for GitHub](https://jitpack.io/)
 
 ## 2. 性能优化
 ###布局优化
