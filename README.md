@@ -12,15 +12,17 @@
 3. [Java知识](#3-Java知识)
    - [Java多线程](#java多线程)
    - [设计模式](#设计模式)
-4. [相关语言](#4-相关语言)
+4. [Android架构](#4-Android架构)
+	- [重构](#重构)
+5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
    - [Realm](#realm)
-5. [前端知识](#5-前端知识)
+6. [前端知识](#6-前端知识)
 	- [React Native](#react_Native)
 	- [前端文章](#前端文章)
 	- [前端工具](#前端工具)
-6. [其他](#6-其他)
+7. [其他](#7-其他)
    - [Linux](#linux)
 
 ## 1. Tools
@@ -58,7 +60,12 @@
 ###设计模式
 + [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
-## 4. 相关语言
+## 4. Android架构
+### 重构
+[Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
+
+
+## 5. 相关语言
 ### RxJava
 + [RxJava入门详解](http://gold.xitu.io/entry/561b2c1860b2b90b56881f83)
 
@@ -68,7 +75,7 @@
 ### Realm
 + [Realm官方网站](https://realm.io/)
 
-## 5.前端知识
+## 6.前端知识
 ### React_Native
 + [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 
@@ -79,7 +86,7 @@
 ###前端工具
 + [10款前端开发工具](http://www.imooc.com/article/1779)
 	
-## 6. 其他
+## 7. 其他
 ### Linux
 + [Linux进程讲解在线文档](http://www.linuxprocess.com/)
 
