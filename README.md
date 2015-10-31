@@ -71,7 +71,7 @@
 
 ### Custom_view
 + [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
-
++ [show/hide views when scrolling a list](https://github.com/mzgreen/HideOnScrollExample)
 
 ## 5. 相关语言
 ### RxJava
