@@ -86,6 +86,7 @@
 ### 前端文章
 + [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
 + [前端面试知识集合](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
++ [前端开发手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html)
 
 ###前端工具
 + [10款前端开发工具](http://www.imooc.com/article/1779)
