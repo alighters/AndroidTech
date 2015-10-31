@@ -10,11 +10,12 @@
 	- [布局优化](#布局优化)
 	- [资源混淆](#资源混淆)
 	- [Rendering](#rendering)
-3. [Java知识](#3-Java知识)
-   - [Java多线程](#java多线程)
-   - [设计模式](#设计模式)
-4. [Android架构](#4-Android架构)
-	- [重构](#重构)
+3. [Java](#3-JavaTech)
+   - [Java MultiThread](#java_MultiThread)
+   - [Design Pattern](#design_pattern)
+   - [Custom View](#custom_view)
+4. [Android](#4-Android)
+	- [Refactor](#refactor)
 5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
@@ -55,17 +56,17 @@
 + [custom-viewgroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
 
 
-## 3. Java知识   
-###Java多线程
+## 3. JavaTech  
+###Java_MultiThread
 + [Java多线程执行框架](http://segmentfault.com/a/1190000003810146)
 + [Java多线程同步与synchronized](http://segmentfault.com/a/1190000003810166)
 + [Java多线程同步与对象控制权](http://segmentfault.com/a/1190000003810146)
 
-###设计模式
+###Design_pattern
 + [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
-## 4. Android架构
-### 重构
+## 4. Android
+### Refactor
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 
 
