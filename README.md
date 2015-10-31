@@ -13,9 +13,9 @@
 3. [Java](#3-JavaTech)
    - [Java MultiThread](#java_MultiThread)
    - [Design Pattern](#design_pattern)
-   - [Custom View](#custom_view)
 4. [Android](#4-Android)
 	- [Refactor](#refactor)
+	- [Custom View](#custom_view)
 5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
@@ -68,6 +68,9 @@
 ## 4. Android
 ### Refactor
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
+
+### Custom_view
++ [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 
 
 ## 5. 相关语言
