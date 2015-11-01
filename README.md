@@ -6,6 +6,7 @@
    - [Parcelable](#parcelable)
    - [Iterm](#iterm)
    - [JitPack](#jitPack)
+   - [Vim](#vim)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
 	- [资源混淆](#资源混淆)
@@ -42,6 +43,9 @@
 
 ###JitPack
 + [JitPack：using package repository for GitHub](https://jitpack.io/)
+
+###Vim
++ [Vim快捷键位图](http://cenalulu.github.io/linux/all-vim-cheatsheat/)
 
 ## 2. 性能优化
 ###布局优化
