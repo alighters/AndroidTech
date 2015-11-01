@@ -82,8 +82,12 @@
 + [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 + [show/hide views when scrolling a list](https://github.com/mzgreen/HideOnScrollExample)
 
-###MaterialDesign
-+ [Plaid](https://github.com/nickbutcher/plaid)
+### Animation
++ [Material Animation](https://github.com/lgvalle/Material-Animations)
+
+### MaterialDesign
++ [Plaid](https://github.com/nickbutcher/plaid) 
++ [Watch](https://github.com/tuesda/Watch) （Android app for the dribbble）
 
 ## 5. 相关语言
 ### RxJava
