@@ -16,6 +16,7 @@
 4. [Android](#4-Android)
 	- [Refactor](#refactor)
 	- [Custom View](#custom_view)
+	- [Material Design](#material_design)
 5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
@@ -65,6 +66,7 @@
 ###Design_pattern
 + [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
+
 ## 4. Android
 ### Refactor
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
@@ -72,6 +74,9 @@
 ### Custom_view
 + [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 + [show/hide views when scrolling a list](https://github.com/mzgreen/HideOnScrollExample)
+
+###Material_Design
++ [Plaid](https://github.com/nickbutcher/plaid)
 
 ## 5. 相关语言
 ### RxJava
