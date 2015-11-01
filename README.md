@@ -14,6 +14,7 @@
 3. [Java](#3-JavaTech)
    - [Java MultiThread](#java_MultiThread)
    - [Design Pattern](#design_pattern)
+   - [JVM](#jVM)
 4. [Android](#4-Android)
 	- [Refactor](#refactor)
 	- [Custom View](#custom_view)
@@ -70,6 +71,8 @@
 ###Design_pattern
 + [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
+###JVM
++ [jvm基础知识](http://www.imooc.com/article/1743)
 
 ## 4. Android
 ### Refactor
