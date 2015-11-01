@@ -12,13 +12,13 @@
 	- [资源混淆](#资源混淆)
 	- [Rendering](#rendering)
 3. [Java](#3-javatech)
-   - [Java MultiThread](#java_multiThread)
-   - [Design Pattern](#design_pattern)
+   - [Java MultiThread](#java multithread)
+   - [Design Pattern](#design pattern)
    - [JVM](#jvm)
 4. [Android](#4-android)
 	- [Refactor](#refactor)
-	- [Custom View](#custom_view)
-	- [Material Design](#material_design)
+	- [Custom View](#custom view)
+	- [Material Design](#material design)
 5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
@@ -63,12 +63,12 @@
 
 
 ## 3. JavaTech  
-###Java_MultiThread
+###Java MultiThread
 + [Java多线程执行框架](http://segmentfault.com/a/1190000003810146)
 + [Java多线程同步与synchronized](http://segmentfault.com/a/1190000003810166)
 + [Java多线程同步与对象控制权](http://segmentfault.com/a/1190000003810146)
 
-###Design_pattern
+###Design Pattern
 + [Android源码设计模式](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 
 ###JVM
@@ -78,11 +78,11 @@
 ### Refactor
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 
-### Custom_view
+### Custom View
 + [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 + [show/hide views when scrolling a list](https://github.com/mzgreen/HideOnScrollExample)
 
-###Material_Design
+###Material Design
 + [Plaid](https://github.com/nickbutcher/plaid)
 
 ## 5. 相关语言
