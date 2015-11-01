@@ -19,6 +19,7 @@
 	- [Refactor](#refactor)
 	- [Custom View](#customview)
 	- [Material Design](#materialdesign)
+	- [Article](#article)
 5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
@@ -89,6 +90,9 @@
 ### MaterialDesign
 + [Plaid](https://github.com/nickbutcher/plaid) 
 + [Watch](https://github.com/tuesda/Watch) （Android app for the dribbble）
+
+### Article
++ [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 
 ## 5. 相关语言
 ### RxJava
