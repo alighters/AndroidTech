@@ -7,6 +7,7 @@
    - [Iterm](#iterm)
    - [JitPack](#jitPack)
    - [Vim](#vim)
+   - [Mac](#mac)
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
 	- [资源混淆](#资源混淆)
@@ -48,6 +49,10 @@
 
 ###Vim
 + [Vim快捷键位图](http://cenalulu.github.io/linux/all-vim-cheatsheat/)
+
+###Mac
++ [开发利器介绍](http://lusfold.com/2015/09/10/Lusfold%E7%9A%84%E5%88%A9%E5%99%A8/#more)
++ [配置Mac高效环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 
 ## 2. 性能优化
 ###布局优化
@@ -108,6 +113,7 @@
 ## 6.前端知识
 ### ReactNative
 + [React Native专题](http://www.jianshu.com/p/96febc4fec45)
++ [React Native for Android架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
 
 ### 前端文章
 + [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
