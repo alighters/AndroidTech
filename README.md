@@ -93,6 +93,7 @@
 
 ### Article
 + [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
++ [Android开发中的坑](http://zhuanlan.zhihu.com/zmywly8866/20309921)
 
 ## 5. 相关语言
 ### RxJava
