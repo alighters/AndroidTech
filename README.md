@@ -29,6 +29,7 @@
 	- [React Native](#reactnative)
 	- [前端文章](#前端文章)
 	- [前端工具](#前端工具)
+	- [Javascript](#javascript)
 7. [其他](#7-其他)
    - [Linux](#linux)
 
@@ -122,6 +123,9 @@
 
 ###前端工具
 + [10款前端开发工具](http://www.imooc.com/article/1779)
+
+###Javascript
++ [Javascript设计模式](https://segmentfault.com/blog/%E9%A3%9E%E7%8B%90)
 	
 ## 7. 其他
 ### Linux
