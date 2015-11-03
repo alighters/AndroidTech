@@ -126,6 +126,7 @@
 
 ###Javascript
 + [Javascript设计模式](https://segmentfault.com/blog/%E9%A3%9E%E7%8B%90)
++ [Jquery技巧](http://gold.xitu.io/entry/56355b6960b22ab52f005ed3)
 	
 ## 7. 其他
 ### Linux
