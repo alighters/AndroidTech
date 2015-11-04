@@ -96,6 +96,7 @@
 ### MaterialDesign
 + [Plaid](https://github.com/nickbutcher/plaid) 
 + [Watch](https://github.com/tuesda/Watch) （Android app for the dribbble）
++ [android-topeka](https://github.com/googlesamples/android-topeka) (showcases about material design)
 
 ### Article
 + [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
