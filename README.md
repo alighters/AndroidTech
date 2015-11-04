@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Tools](#1-tools)
    - [Gradle](#gradle)
+   - [Android studio](#androidstudio)
    - [Parcelable](#parcelable)
    - [Iterm](#iterm)
    - [JitPack](#jitPack)
@@ -36,6 +37,9 @@
 ## 1. Tools
 ###Gradle
 + [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
+
+### AndroidStudio
++ [Android镜像网站](http://www.androiddevtools.cn/)
 
 ###Parcelable
 + [parceler](https://github.com/johncarl81/parceler)
