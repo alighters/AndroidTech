@@ -29,6 +29,7 @@
    - [Realm](#realm)
 6. [前端知识](#6-前端知识)
 	- [React Native](#reactnative)
+	- [React](#react)
 	- [前端文章](#前端文章)
 	- [前端工具](#前端工具)
 	- [Javascript](#javascript)
@@ -125,6 +126,9 @@
 ### ReactNative
 + [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 + [React Native for Android架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
+
+### React
++ [React入门](http://hahack.com/codes/learn-react-native-for-android-02/)
 
 ### 前端文章
 + [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
