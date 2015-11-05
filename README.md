@@ -12,6 +12,7 @@
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
 	- [资源混淆](#资源混淆)
+	- [Article](#article)
 	- [Rendering](#rendering)
 3. [Java](#3-javatech)
    - [Java MultiThread](#javamultithread)
@@ -67,6 +68,9 @@
 
 ###资源混淆
 + [微信 Android 资源混淆打包工具-安装包立减1M](http://gold.xitu.io/entry/561f760560b27457e8371416)  [源码地址](https://github.com/shwenzhang/AndResGuard)
+
+###Article
++ [加速你的Android应用](http://www.devtf.cn/?p=1097)
 
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
