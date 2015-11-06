@@ -20,6 +20,7 @@
    - [JVM](#jvm)
 4. [Android](#4-android)
 	- [Refactor](#refactor)
+	- [Architecture](#architecture)
 	- [Custom View](#customview)
 	- [Material Design](#materialdesign)
 	- [Article](#article)
