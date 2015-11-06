@@ -94,6 +94,10 @@
 ### Refactor
 [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 
+### Architecture
++ [EffectiveAndroid UI](https://github.com/pedrovgs/EffectiveAndroidUI)
++ [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
+
 ### CustomView
 + [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 + [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
