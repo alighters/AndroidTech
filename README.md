@@ -121,6 +121,7 @@
 ### Website
 + [DroidCon Skillmatter](https://skillsmatter.com/conferences/6712-droidcon-2015#skillscasts)
 + [Android developers youtube](https://www.youtube.com/user/androiddevelopers)
++ [Android dev google +](https://plus.google.com/u/0/explore/AndroidDev)
 
 ## 5. 相关语言
 ### RxJava
