@@ -32,6 +32,7 @@
 6. [前端知识](#6-前端知识)
 	- [React Native](#reactnative)
 	- [React](#react)
+	- [NodeJs](#nodejs)
 	- [前端文章](#前端文章)
 	- [前端工具](#前端工具)
 	- [Javascript](#javascript)
@@ -140,6 +141,9 @@
 
 ### React
 + [React入门](http://hahack.com/codes/learn-react-native-for-android-02/)
+
+### NodeJs
++ [NodeJs 4.0 在线学习课程](http://www.hubwiz.com/course/561e0c8a1bc20c980538e1e8/)
 
 ### 前端文章
 + [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
