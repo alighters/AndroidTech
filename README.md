@@ -162,7 +162,7 @@
 
 ###Javascript
 + [Javascript设计模式](https://segmentfault.com/blog/%E9%A3%9E%E7%8B%90)
-+ [JavaScript初学实战](http://gank.io/post/564151c1f1df1210001c9161)
++ [ES2015实战](http://gank.io/post/564151c1f1df1210001c9161)
 + [Jquery技巧](http://gold.xitu.io/entry/56355b6960b22ab52f005ed3)
 	
 ## 7. 其他
