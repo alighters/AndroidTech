@@ -104,6 +104,7 @@
 
 ### SourceCode
 + [Android Context 完全解析，你所不知道的Context的各种细节](http://gold.xitu.io/entry/5640026900b0023ca8ec8cb7)
++ [Android 启动过程分析](http://android.jobbole.com/67931/)
 
 
 ### CustomView
