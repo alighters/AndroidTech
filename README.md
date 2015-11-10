@@ -118,6 +118,7 @@
 ### Article
 + [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
 + [Android开发中的坑](http://zhuanlan.zhihu.com/zmywly8866/20309921)
++ [关于Android中工作线程的思考](http://droidyue.b0.upaiyun.com/share_ppt/dive_into_worker_thread/dive_into_worker_thread.html)
 
 ### Website
 + [DroidCon Skillmatter](https://skillsmatter.com/conferences/6712-droidcon-2015#skillscasts)
