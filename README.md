@@ -139,6 +139,7 @@
 ## 5. 相关语言
 ### RxJava
 + [RxJava入门详解](http://gold.xitu.io/entry/561b2c1860b2b90b56881f83)
++ [RxJava简单入门](http://www.jianshu.com/p/fa3b31f8f47d)
 
 ### Kotlin
 + [Kotlin中文网站](http://kotlinlang.cn/)
