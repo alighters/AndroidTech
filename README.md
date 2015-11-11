@@ -26,12 +26,12 @@
 	- [Material Design](#materialdesign)
 	- [Article](#article)
    - [Website](#website)
+	- [React Native](#reactnative)
 5. [相关语言](#5-相关语言)
 	- [RxJava](#rxjava)
    - [Kotlin](#kotlin)
    - [Realm](#realm)
 6. [前端知识](#6-前端知识)
-	- [React Native](#reactnative)
 	- [React](#react)
 	- [NodeJs](#nodejs)
 	- [前端文章](#前端文章)
@@ -131,6 +131,11 @@
 + [Android developers youtube](https://www.youtube.com/user/androiddevelopers)
 + [Android dev google +](https://plus.google.com/u/0/explore/AndroidDev)
 
+### ReactNative
++ [React Native专题](http://www.jianshu.com/p/96febc4fec45)
++ [React Native for Android架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
+
+
 ## 5. 相关语言
 ### RxJava
 + [RxJava入门详解](http://gold.xitu.io/entry/561b2c1860b2b90b56881f83)
@@ -142,10 +147,6 @@
 + [Realm官方网站](https://realm.io/)
 
 ## 6.前端知识
-### ReactNative
-+ [React Native专题](http://www.jianshu.com/p/96febc4fec45)
-+ [React Native for Android架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
-
 ### React
 + [React入门](http://hahack.com/codes/learn-react-native-for-android-02/)
 
