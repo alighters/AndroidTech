@@ -139,6 +139,7 @@
 
 ### Hotfix
 + [Nuwa](https://github.com/jasonross/Nuwa)
++ [DroidFix](https://github.com/bunnyblue/DroidFix)
 
 ## 5. 相关语言
 ### RxJava
