@@ -78,6 +78,7 @@
 ###Article
 + [加速你的Android应用](http://www.devtf.cn/?p=1097)
 + [Android 6.0权限实战](http://gold.xitu.io/entry/5642c57660b2298f08d09d3f)
++ [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
