@@ -144,7 +144,7 @@
 + [React Native专题](http://www.jianshu.com/p/96febc4fec45)
 + [React Native for Android架构初探](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=207782506&idx=1&sn=3ff6b03c0d59fbda406f64739d9272cf&scene=1&srcid=1009Q3qo6mLeT2ydjdzUwLQ7&from=groupmessage&isappinstalled=0#rd)
 + [React Native周刊](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
-
++ [React Native学习资源记录](https://github.com/ele828/react-native-guide)
 ### Hotfix
 + [Nuwa](https://github.com/jasonross/Nuwa)
 + [DroidFix](https://github.com/bunnyblue/DroidFix)
