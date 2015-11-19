@@ -160,6 +160,7 @@
 ## 6.前端知识
 ### React
 + [React入门](http://hahack.com/codes/learn-react-native-for-android-02/)
++ [A Compact React Cookbook](http://blog.oyanglul.us/javascript/react-cookbook-mini.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ### NodeJs
 + [NodeJs 4.0 在线学习课程](http://www.hubwiz.com/course/561e0c8a1bc20c980538e1e8/)
