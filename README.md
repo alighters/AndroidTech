@@ -14,6 +14,7 @@
 	- [资源混淆](#资源混淆)
 	- [Article](#article)
 	- [Rendering](#rendering)
+   - [Apk包减少大小](#apk包大小减少)
 3. [Java](#3-javatech)
    - [Java MultiThread](#javamultithread)
    - [Design Pattern](#designpattern)
@@ -86,6 +87,9 @@
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
 + [custom-viewgroups](https://sriramramani.wordpress.com/2015/05/06/custom-viewgroups/)
+
+### APK包大小减少
++ [android resource remover](https://github.com/KeepSafe/android-resource-remover)
 
 
 ## 3. JavaTech  
