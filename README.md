@@ -156,7 +156,8 @@
 
 ## 5. 相关语言
 ### RxJava
-+ [RxJava入门详解](http://gold.xitu.io/entry/561b2c1860b2b90b56881f83)
++ [RxJava入门详解](http://gank.io/post/560e15be2dca930e00da1083)
++ [上面文章的代码篇](https://github.com/androidmalin/RengwuxianRxjava)
 + [RxJava简单入门](http://www.jianshu.com/p/fa3b31f8f47d)
 + [深入浅出RxJava系列篇](http://blog.csdn.net/lzyzsd/article/details/41833541)
 
