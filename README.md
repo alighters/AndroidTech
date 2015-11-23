@@ -111,6 +111,7 @@
 ### Architecture
 + [EffectiveAndroid UI](https://github.com/pedrovgs/EffectiveAndroidUI)
 + [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
++ [RxJava architecture library for Android - Reark](https://github.com/reark/reark)
 
 ### SourceCode
 + [Android Context 完全解析，你所不知道的Context的各种细节](http://gold.xitu.io/entry/5640026900b0023ca8ec8cb7)
