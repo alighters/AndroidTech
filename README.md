@@ -161,6 +161,7 @@
 + [上面文章的代码篇](https://github.com/androidmalin/RengwuxianRxjava)
 + [RxJava简单入门](http://www.jianshu.com/p/fa3b31f8f47d)
 + [深入浅出RxJava系列篇](http://blog.csdn.net/lzyzsd/article/details/41833541)
++ [ReactiveX文档中文翻译](https://www.gitbook.com/book/mcxiaoke/rxdocs/details)
 
 ### Kotlin
 + [Kotlin中文网站](http://kotlinlang.cn/)
