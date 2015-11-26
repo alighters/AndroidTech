@@ -51,6 +51,7 @@
 
 ### AndroidStudio
 + [Android镜像网站](http://www.androiddevtools.cn/)
++ [AndroidStudio进阶快捷键](http://www.jianshu.com/p/c873441be31e)
 
 ###Parcelable
 + [parceler](https://github.com/johncarl81/parceler)
