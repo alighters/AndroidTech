@@ -19,6 +19,7 @@
    - [Java MultiThread](#javamultithread)
    - [Design Pattern](#designpattern)
    - [JVM](#jvm)
+   - [面试题](#面试题)
 4. [Android](#4-android)
 	- [Refactor](#refactor)
 	- [Architecture](#architecture)
@@ -106,6 +107,9 @@
 
 ###JVM
 + [jvm基础知识](http://www.imooc.com/article/1743)
+
+### 面试题
++ [Java多线程](http://blogread.cn/it/article/6933?f=wb)
 
 ## 4. Android
 ### Refactor
