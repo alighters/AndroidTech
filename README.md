@@ -45,6 +45,7 @@
 7. [其他](#7-其他)
    - [Linux](#linux)
    - [Books](#books)
+   - [Github](#github)
 
 ## 1. Tools
 ###Gradle
@@ -211,4 +212,6 @@
 + [Linux进程讲解在线文档](http://www.linuxprocess.com/)
 ### Books
 + [Free Program Books](http://gold.xitu.io/entry/5649f0c860b259caed31a218)
+### GitHub
++ [Github上有意思的项目推荐](http://www.imooc.com/article/1977)
 
