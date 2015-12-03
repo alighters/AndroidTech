@@ -199,6 +199,7 @@
 + [前端面试知识集合](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 + [前端开发手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html)
 + [前端的变革](https://github.com/amfe/article/issues/28)
++ [前端面试知识题目](https://github.com/hawx1993/Front-end-Interview-questions/blob/master/README.md)
 
 ###前端工具
 + [10款前端开发工具](http://www.imooc.com/article/1779)
