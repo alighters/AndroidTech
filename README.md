@@ -50,6 +50,7 @@
 ## 1. Tools
 ###Gradle
 + [Gradle详细介绍](http://www.open-open.com/lib/view/open1437144995334.html)
++ [Android开发必备，我和Gradle有个约会](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=401572523&idx=1&sn=19504d41b81f82a5388ae4f95072aea5&scene=0#wechat_redirect)
 
 ### AndroidStudio
 + [Android镜像网站](http://www.androiddevtools.cn/)
