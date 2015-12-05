@@ -135,6 +135,7 @@
 + [drag & drop and swipe-to-dismiss to RecyclerView](https://github.com/iPaulPro/Android-ItemTouchHelper-Demo)
 + [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
 + [show/hide views when scrolling a list](https://github.com/mzgreen/HideOnScrollExample)
++ [Android开源代码-ui篇](http://www.imooc.com/article/2448)
 
 ### Animation
 + [Material Animation](https://github.com/lgvalle/Material-Animations)
