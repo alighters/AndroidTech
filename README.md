@@ -165,6 +165,7 @@
 + [React Native周刊](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
 + [React Native学习资源记录](https://github.com/ele828/react-native-guide)
 + [React Native Library](http://mrn.js.org/)
++ [react native lesson](https://github.com/vczero/react-native-lesson)
 
 ### Hotfix
 + [Nuwa](https://github.com/jasonross/Nuwa)
