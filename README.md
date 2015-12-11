@@ -122,10 +122,6 @@
 + [EffectiveAndroid UI](https://github.com/pedrovgs/EffectiveAndroidUI)
 + [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
 + [RxJava architecture library for Android - Reark](https://github.com/reark/reark)
-+ [RxJava 开发之路](http://huxian99.github.io/2015/10/24/RxJava%E7%9A%84Android%E5%BC%80%E5%8F%91%E4%B9%8B%E8%B7%AF-RxJava%E5%85%A5%E9%97%A8-%E4%B8%80/)
-+ [谜之RxJava](http://segmentfault.com/a/1190000004049490)
-+ [RxJava keynote](http://mrfu.me/rxjava-keynote/#/)
-+ [使用RxJava提升用户体验](http://www.jianshu.com/p/33c548bce571)
 
 ### SourceCode
 + [Android Context 完全解析，你所不知道的Context的各种细节](http://gold.xitu.io/entry/5640026900b0023ca8ec8cb7)
@@ -180,9 +176,11 @@
 ### RxJava
 + [RxJava入门详解](http://gank.io/post/560e15be2dca930e00da1083)
 + [上面文章的代码篇](https://github.com/androidmalin/RengwuxianRxjava)
-+ [RxJava简单入门](http://www.jianshu.com/p/fa3b31f8f47d)
 + [深入浅出RxJava系列篇](http://blog.csdn.net/lzyzsd/article/details/41833541)
 + [ReactiveX文档中文翻译](https://www.gitbook.com/book/mcxiaoke/rxdocs/details)
++ [谜之RxJava](http://segmentfault.com/a/1190000004049490)
++ [RxJava keynote](http://mrfu.me/rxjava-keynote/#/)
++ [使用RxJava提升用户体验](http://www.jianshu.com/p/33c548bce571)
 
 ### Kotlin
 + [Kotlin中文网站](http://kotlinlang.cn/)
