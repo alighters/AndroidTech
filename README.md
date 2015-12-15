@@ -91,6 +91,7 @@
 + [Android ViewDragHelper完全解析 自定义ViewGroup神器](http://blog.csdn.net/lmj623565791/article/details/46858663)
 + [网页打开App](http://blog.csdn.net/buptlzx/article/details/9837137)
 + [Taking Command of Android Development](https://medium.com/@theMikhail/take-command-of-android-development-9411af8cf571#.wttgfac14)
++ [REFACTORING PLAID APP](http://hannesdorfmann.com/android/plaid-refactored-1/)
 
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
