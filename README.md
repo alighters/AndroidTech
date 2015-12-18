@@ -12,6 +12,7 @@
 2. [性能优化](#2-性能优化)
 	- [布局优化](#布局优化)
 	- [资源混淆](#资源混淆)
+   - [内存泄露](#内存泄露)
 	- [Article](#article)
 	- [Rendering](#rendering)
    - [Apk包减少大小](#apk包大小减少)
@@ -84,6 +85,9 @@
 
 ###资源混淆
 + [微信 Android 资源混淆打包工具-安装包立减1M](http://gold.xitu.io/entry/561f760560b27457e8371416)  [源码地址](https://github.com/shwenzhang/AndResGuard)
+
+### 内存泄露
++ [Android中Handler引起的内存泄露](http://droidyue.com/blog/2014/12/28/in-android-handler-classes-should-be-static-or-leaks-might-occur/?droid_refer=ninki_posts)
 
 ###Article
 + [加速你的Android应用](http://www.devtf.cn/?p=1097)
