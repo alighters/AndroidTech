@@ -139,6 +139,7 @@
 + [drag-select-recyclerview](https://github.com/afollestad/drag-select-recyclerview)
 + [show/hide views when scrolling a list](https://github.com/mzgreen/HideOnScrollExample)
 + [Android开源代码-ui篇](http://www.imooc.com/article/2448)
++ [View 碎裂的效果](https://github.com/Yalantis/StarWars.Android)
 
 ### Animation
 + [Material Animation](https://github.com/lgvalle/Material-Animations)
