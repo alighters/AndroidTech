@@ -205,6 +205,7 @@
 
 ### NodeJs
 + [NodeJs 4.0 在线学习课程](http://www.hubwiz.com/course/561e0c8a1bc20c980538e1e8/)
++ [NodeJs 入门](http://www.nodebeginner.org/index-zh-cn.html)
 
 ### 前端文章
 + [前端入门知识总结](https://github.com/qiu-deqing/FE-learning)
