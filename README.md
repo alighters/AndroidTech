@@ -206,6 +206,7 @@
 + [A Compact React Cookbook](http://blog.oyanglul.us/javascript/react-cookbook-mini.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 + [一看就懂的ReactJs入门教程-精华版](http://www.imooc.com/article/2379)
 + [React 重要知识点](http://codecondo.com/check-essential-basics-react-js/)
++ [React组件/元素与实例分析](http://segmentfault.com/a/1190000004172975)
 
 ### NodeJs
 + [NodeJs 4.0 在线学习课程](http://www.hubwiz.com/course/561e0c8a1bc20c980538e1e8/)
