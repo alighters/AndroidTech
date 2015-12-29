@@ -120,6 +120,7 @@
 
 ###JVM
 + [jvm基础知识](http://www.imooc.com/article/1743)
++ [深入理解jvm之内存区域与内存溢出](http://wustrive2008.github.io/2015/12/24/java/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3jvm%E4%B9%8B%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA/)
 
 ### 面试题
 + [Java多线程](http://blogread.cn/it/article/6933?f=wb)
