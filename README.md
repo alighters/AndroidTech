@@ -100,6 +100,7 @@
 + [网页打开App](http://blog.csdn.net/buptlzx/article/details/9837137)
 + [Taking Command of Android Development](https://medium.com/@theMikhail/take-command-of-android-development-9411af8cf571#.wttgfac14)
 + [REFACTORING PLAID APP](http://hannesdorfmann.com/android/plaid-refactored-1/)
++ [Android提高开发效率](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400785752&idx=1&sn=e1c166e7fad0892811c9ca9bca6d1540&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 
 ### Rendering
 + [Improving Comment Rendering on Android](http://instagram-engineering.tumblr.com/post/114508858967/improving-comment-rendering-on-android)
